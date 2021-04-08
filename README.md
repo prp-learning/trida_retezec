@@ -1,1 +1,1 @@
-# trida_retezec
+# Základní práce s objektem String v C++
